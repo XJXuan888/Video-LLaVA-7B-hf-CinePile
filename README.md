@@ -9,7 +9,7 @@
 3. [Results](#results)
 4. [Model Sources](#model-sources)
 5. [Uses](#uses)
-6. [Setup and Installation](#setup-and-installation)
+6. [Setup and Instruction](#setup-and-Instruction)
 
 ---
 
@@ -70,7 +70,7 @@ Fine-tuned model taking as bases [Video-LlaVA](https://huggingface.co/LanguageBi
 Although the model can answer questions based on the content, it is specifically optimized for addressing CinePile-related queries.
 When the questions do not follow a CinePile-specific prompt, the inference section of the notebook is designed to refine and clean up the text produced by the model.
 
-## Setup and Installation
+## Setup and Instruction
 Each notebook includes detailed instructions at the top to guide you through the process:
 
 1. **Fine-Tuning Notebook**:
